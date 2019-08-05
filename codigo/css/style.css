@@ -314,3 +314,5 @@ span.title-color{color: #FF6F61;}
 .big .fa-behance {position:relative; top: 3px;}
 .fa-behance {position:relative; top: 2px;}
 img.big {width: 100%;}
+
+.no-mb > * {margin-bottom: 0 !important;}
